@@ -19,4 +19,16 @@ images = ReadImg(path)
 df = image_to_df(images)
 SVC_classify = SVC_method(df)
 
+Author 
+Agrata shukla
+
+email
+missagrata@gmail.com
+er.agrata@gmail.com
+
+Reference Paper
+
+ Video and Image based Emotion Recognition Challenges in the Wild: EmotiW 
+2015
+
 
