@@ -6,7 +6,7 @@ Prequiresits
 
 All the pre-requistis are included in src .see src files for more information
 
-This is the demo code.
+This is the demo code.(see demo.py)
 
 
 from ReadVideoToImage import ReadImg
